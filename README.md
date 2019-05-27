@@ -1,7 +1,7 @@
 # Ft-scheduler
 
 This package provides a simple, fluent interface around the builtin
-[`System.Timers.Timer`](https://docs.microsoft.com/en-us/dotnet/api/system.timers.timer?view=netframework-4.8)
+[`System.Timers.Timer`](https://docs.microsoft.com/en-us/dotnet/api/system.timers.timer?view=netstandard-2.0)
 class to declare recurring tasks.
 
 ## Examples
